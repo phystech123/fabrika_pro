@@ -18,3 +18,4 @@ arduino based plain with radio control and lightweight housing
 
 # ФОТО
 # ВИДЕО
+https://docs.google.com/presentation/d/1seuBNmHTBfYqBQu6ei0_w9lxtSI7zHCepyuL2KFsVYY/edit?slide=id.p#slide=id.p
